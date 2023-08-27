@@ -3,7 +3,7 @@
 ### Overview
 This project aims to fine-tune `Llama2` to produce a medical consultant chatbot.
 
-Disclaimer: The main objective of this project is on the data science aspect (e.g., fine-tuning an LLM), not the medical.
+Disclaimer: The main objective of this project is on the data science aspect (e.g., fine-tuning an LLM) and not the medical side.
 
 ### Model
 [Llama2](https://ai.meta.com/llama/)
